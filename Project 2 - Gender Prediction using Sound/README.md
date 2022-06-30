@@ -1,4 +1,4 @@
-# Project 2: Gender prediction using sound
+# [Project 2 - Gender prediction using sound](https://github.com/roccojustice/Python-EDAs/blob/master/Project%202%20-%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
 * Compared dataset using 'fuzzy' library to determine gender of writers
 * Iterated over data frames looking for matches
 * Created visualizations to observe tendencies
