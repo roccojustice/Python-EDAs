@@ -8,4 +8,4 @@
 * Packages: pandas, numpy, matplotlib, fuzzy
 
 ![](https://github.com/roccojustice/Python-EDAs/blob/master/Project%202%20-%20Gender%20Prediction%20using%20Sound/images/final%20graph.png)
-1[](https://github.com/roccojustice/Python-EDAs/blob/master/Project%202%20-%20Gender%20Prediction%20using%20Sound/images/fuzzy.jpg)
+![](https://github.com/roccojustice/Python-EDAs/blob/master/Project%202%20-%20Gender%20Prediction%20using%20Sound/images/fuzzy.jpg)
