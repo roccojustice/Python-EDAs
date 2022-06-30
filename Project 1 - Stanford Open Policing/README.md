@@ -20,7 +20,7 @@
 * Packages: pandas, numpy, matplotlib 
 
 ![](https://github.com/roccojustice/Python-EDAs/blob/master/Project%201%20-%20Stanford%20Open%20Policing/images/graph%20arrest%20rate.png)
-![](https://github.com/roccojustice/Python-EDAs/blob/master/Project%201%20-%20Stanford%20Open%20Policing/images/stanford%20project.png)
+![](https://github.com/roccojustice/Python-EDAs/blob/master/Project%201%20-%20Stanford%20Open%20Policing/images/stanford%20project.jpg)
 
 ## Inspiration
 
