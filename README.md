@@ -2,7 +2,7 @@
 
 Hello and welcome to My Portfolio!
 
-I'm Orlando Reyes and I'm an Industrial Engineer passionate about data. 
+I'm Orlando Reyes and I'm passionate about data. 
 
 Through this series of projects I'm trying to portray my knowledge of Data Analysis with Python.
 
