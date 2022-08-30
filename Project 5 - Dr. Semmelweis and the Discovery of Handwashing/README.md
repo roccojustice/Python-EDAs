@@ -1,4 +1,4 @@
-# [Project 5 - Dr. Semmelweis and the Discovery of Handwashing](https://github.com/roccojustice/Python-EDAs/tree/master/Project%205%20-%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing#:~:text=Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
+# [Project 5 - Dr. Semmelweis and the Discovery of Handwashing](https://github.com/roccojustice/Python-EDAs/blob/master/Project%205%20-%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
 * Made some data cleaning over the dataset using pandas and numpy libraries.
 * Compared data using measures of central tendency.
 * Handled outliers to avoid problems in case of in deep statistical analysis.
