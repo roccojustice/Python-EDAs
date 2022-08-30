@@ -22,6 +22,6 @@
 
 ## Inspiration
 
-[The Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+This is an guided excercise part of the Datacamp learning resources. However, the code was developed by me.
 
 ### [Click here](https://github.com/roccojustice/Python-EDAs) to go back to main repository.
